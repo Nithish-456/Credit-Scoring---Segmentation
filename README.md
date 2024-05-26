@@ -6,6 +6,17 @@
 
 - These credit scores are numerical representations of the borrower’s creditworthiness and indicate the likelihood of default or timely repayment. Once the credit scores are calculated, customers are segmented into different risk categories or credit tiers based on predefined thresholds.
 
+## Dataset Decsription
+- Age: This feature represents the age of the individual.
+- Employment Status: This feature indicates the current employment status of the individual.
+- Credit Utilization Ratio: This feature reflects the ratio of credit used by the individual compared to their total available credit limit.
+- Payment History: It represents the monthly net payment behaviour of each customer, taking into account factors such as on-time payments, late payments, missed payments, and defaults.
+- Number of Credit Accounts: It represents the count of active credit accounts the person holds.
+- Loan Amount: It indicates the monetary value of the loan.
+- Interest Rate: This feature represents the interest rate associated with the loan.
+- Loan Term: This feature denotes the duration or term of the loan.
+- Type of Loan: It includes categories like “Personal Loan,” “Auto Loan,” or potentially other types of loans.
+
 ## 🚀 Project Flow
 ### 1. 📂 Dataset Collection
 Collecting the required dataset from open sources related to customer credits.
