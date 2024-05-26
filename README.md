@@ -26,6 +26,9 @@ Deriving insights from our data using:
 - Histograms
 - Bar graphs
 - Heatmaps
+![Ratio Distribution](images/img1.png)
+
+![Histogram](images/img2.png)
 
  ### 3. 🗺️ Define Mapping Levels
 Defining the mapping levels followed by applying maps to necessary columns.
@@ -50,8 +53,7 @@ The credit scores are segmented into the following categories:
 
 ## 📈 Results
 ### Visualizations
-![Visualization 1](path_to_image1.png)
-![Visualization 2](path_to_image2.png)
+![Visualization 1](images/img3.png)
 
 ## 📜 Summary
 This project provides a comprehensive approach to credit scoring and segmentation, enabling financial institutions to make informed lending decisions and effectively manage credit risk.
