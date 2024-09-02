@@ -57,3 +57,7 @@ The credit scores are segmented into the following categories:
 
 ## 📜 Summary
 This project provides a comprehensive approach to credit scoring and segmentation, enabling financial institutions to make informed lending decisions and effectively manage credit risk.
+
+## Best Feature:
+If you want to know the details of this project and behind the scenes you can interact with this project with Nithi Docs Assistant:
+[Nithi_Docs👍](https://hf.co/chat/assistant/66d5eefcf8fde83943155c44 "Get Over to assistant✌️")
